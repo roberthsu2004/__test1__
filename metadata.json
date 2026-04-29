@@ -1,0 +1,6 @@
+{
+  "name": "辦公室飲料訂購系統",
+  "description": "一個精美的辦公室飲料訂購系統，支援瀏覽菜單、新增、修改與刪除訂單。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
